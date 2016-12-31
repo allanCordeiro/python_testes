@@ -11,4 +11,4 @@ ano = int(input("informe ano de nascimento: "))
 
 vagabundo = mes + (ano/100) * (50-dia)
 anjo = 100 - vagabundo
-print("Voce eh %d anjo, mas %d vagabundo" %(vagabundo, anjo))
+print("Voce eh %d%% anjo, mas %d%% vagabundo" %(vagabundo, anjo))
